@@ -1,15 +1,15 @@
 # LogHawk - Real-Time Log Monitoring Tool
 
-## 🚀 Introduction
+##  Introduction
 LogHawk is a **powerful, lightweight** log monitoring tool that detects security threats in real-time and sends alerts.
 
-## 📌 Features
-✅ **Monitors logs in real-time**  
-✅ **Detects suspicious patterns**  
-✅ **Sends email alerts on security threats**  
-✅ **Customizable with `config.json`**  
+##  Features
+- **Monitors logs in real-time**  
+- **Detects suspicious patterns**  
+- **Sends email alerts on security threats**  
+- **Customizable with `config.json`**  
 
-## 🛠 Installation
+##  Installation
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/Tech-Ife/LogHawk.git
