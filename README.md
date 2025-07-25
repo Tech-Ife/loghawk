@@ -1,4 +1,4 @@
-# 🔍 LogHawk - Real-Time Log Monitoring Tool
+# LogHawk - Real-Time Log Monitoring Tool
 
 ## 🚀 Introduction
 LogHawk is a **powerful, lightweight** log monitoring tool that detects security threats in real-time and sends alerts.
